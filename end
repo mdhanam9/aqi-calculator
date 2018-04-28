@@ -1,0 +1,553 @@
+[33mcommit 4ebcc7cdcbb3b534649a20bd0a59dfba823cd802[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Thang Le Quoc <thanglequoc.it@gmail.com>
+Date:   Wed Apr 25 07:43:36 2018 +0700
+
+    Update README.md
+
+[33mcommit 2eb75fb8c1499c6840eb58054892a886786aa8e4[m
+Author: Thang Le Quoc <thanglequoc.it@gmail.com>
+Date:   Wed Apr 25 07:43:04 2018 +0700
+
+    Update README.md
+
+[33mcommit 784f44c314e7f93ab7e096549a5eb0c040754876[m
+Author: Thang Le Quoc <thanglequoc.it@gmail.com>
+Date:   Wed Apr 25 01:15:50 2018 +0700
+
+    Update README.md
+
+[33mcommit 815217c887c15ab81bab41713efe2a09dc24e35f[m
+Author: Thang Le Quoc <thanglequoc.it@gmail.com>
+Date:   Wed Apr 25 01:09:59 2018 +0700
+
+    Update README.md
+
+[33mcommit 28125be5ff8bc998442b5dddb09e83a0751720a9[m
+Author: Thang Le Quoc <silverhair.guy@gmail.com>
+Date:   Wed Apr 25 00:49:43 2018 +0700
+
+    Update README
+
+[33mcommit cd4c2c59adfd5ee38479d20a5a4ec8ff75ed2759[m
+Merge: 5ff28b2 6731bda
+Author: Thang Le Quoc <thanglequoc.it@gmail.com>
+Date:   Wed Apr 25 00:32:55 2018 +0700
+
+    Merge pull request #18 from ThangLeQuoc/1.2.3-improvement-patch
+    
+    1.2.3 improvement patch
+
+[33mcommit 6731bda78e87b6a40a184052650112416b629ba4[m
+Author: Thang Le Quoc <silverhair.guy@gmail.com>
+Date:   Wed Apr 25 00:31:08 2018 +0700
+
+    Wrap Up
+    
+    - Clean travis configuration file
+    - Add new jar, remove old version of aqi-calculator
+
+[33mcommit e0c881158c9958a67c3fa5d8141dac082d6f4ef2[m
+Author: Thang Le Quoc <silverhair.guy@gmail.com>
+Date:   Wed Apr 25 00:16:25 2018 +0700
+
+    Increase build version
+
+[33mcommit 9c422e0882790329126635df0c02f6bec84f7bea[m
+Author: Thang Le Quoc <silverhair.guy@gmail.com>
+Date:   Wed Apr 25 00:14:04 2018 +0700
+
+    Refactor code
+    
+    - Refactor code
+    - Remove code duplication
+
+[33mcommit c79cd25840938ae1c97cf8552650e3525443620f[m
+Author: Thang Le Quoc <silverhair.guy@gmail.com>
+Date:   Sun Apr 22 20:32:42 2018 +0700
+
+    Change Pollutant String To Pollutant Code On Invoke Calculation
+    
+    - Major API change, string code replaced by enum pollutant value
+    - Adapt changes
+    - Refactor codes
+    - Adapt new changes in test cases.
+
+[33mcommit c8fb4428db775fdd2d857d8b3b491db97717e621[m
+Author: Thang Le Quoc <silverhair.guy@gmail.com>
+Date:   Sun Apr 22 18:48:04 2018 +0700
+
+    Refactor Code
+    
+    - Rename constant class
+    - Remove unnecessary code
+    - Fix code style
+
+[33mcommit eb6414506d1cfc029713443b9beba646be4c76a1[m
+Author: Thang Le Quoc <silverhair.guy@gmail.com>
+Date:   Sun Apr 22 18:17:07 2018 +0700
+
+    Refactor Code
+    
+    - Add new path constants
+    - Remove unnecessary comments
+    - Remove unnecessary setter
+
+[33mcommit b948c517bc95e5f42c76c53782f2f1150cc2157c[m
+Author: Thang Le Quoc <silverhair.guy@gmail.com>
+Date:   Sun Apr 22 17:24:05 2018 +0700
+
+    Refactor Code
+    
+    - Refactor code
+    - Fix typo in resource file
+
+[33mcommit 29bf0b284dd2560a79b915fb46c401f708930fae[m
+Author: Thang Le Quoc <silverhair.guy@gmail.com>
+Date:   Sun Apr 22 16:11:41 2018 +0700
+
+    Update Sonar Token
+
+[33mcommit 42bd35cf0c77c54aec6974e0b7bb564fb29b94c8[m
+Author: Thang Le Quoc <silverhair.guy@gmail.com>
+Date:   Sun Apr 22 16:06:46 2018 +0700
+
+    Update Sonar Token Key
+
+[33mcommit 318dbeaf0459dfcecb2159775d61e6493977a006[m
+Author: Thang Le Quoc <silverhair.guy@gmail.com>
+Date:   Sun Apr 22 15:57:16 2018 +0700
+
+    Small File Change To Trigger Travis Build
+
+[33mcommit 90eb57e4f132c194ddf9cf1ec04cf15d4504e986[m
+Author: Thang Le Quoc <silverhair.guy@gmail.com>
+Date:   Sun Apr 22 15:51:04 2018 +0700
+
+    Add Travis Build Automation Configuration
+    
+    - Add configuration file to build with travis
+
+[33mcommit c3bd865e73b1a1b18190cd2100430ad3a52b949a[m
+Author: Thang Le Quoc <silverhair.guy@gmail.com>
+Date:   Sun Apr 22 15:25:21 2018 +0700
+
+    Refactor Code
+    
+    - Remove unnecessary comments
+    - Change access modifier
+    - Remove unnecessary code
+    - Reindent code
+
+[33mcommit 5ff28b2738e6541d21b10e4d09701c76a39505b3[m
+Author: Thang Le Quoc <thanglequoc.it@gmail.com>
+Date:   Wed Aug 30 13:34:48 2017 +0700
+
+    Update README.md
+
+[33mcommit 3d92a297a25009d8f965348dbcf84bc6a7c25ad6[m
+Merge: 30ef234 76e2514
+Author: Thang Le Quoc <thanglequoc.it@gmail.com>
+Date:   Mon Aug 28 21:48:16 2017 +0700
+
+    Merge pull request #17 from ThangLeQuoc/1.2.2-enhancement
+    
+    patch invalid concentration case, remove unnecessary dependency
+
+[33mcommit 76e2514d8290ea8dd0ea679d79928586588d473f[m[33m ([m[1;31morigin/1.2.2-enhancement[m[33m)[m
+Author: Thang Le Quoc <silverhair.guy@gmail.com>
+Date:   Mon Aug 28 21:43:14 2017 +0700
+
+    update gitignore
+
+[33mcommit e5eba1d13bba8a057639ee7f82aa840caeab02ea[m
+Author: Thang Le Quoc <silverhair.guy@gmail.com>
+Date:   Mon Aug 28 21:33:00 2017 +0700
+
+    update version to 1.2.2
+    
+    this new version work on a patch to handle when concentration exceeded range, and remove unnecessary dependency
+
+[33mcommit eab6972037d06f6bafd0426b1d87a50cc42a6ebe[m
+Author: Thang Le Quoc <silverhair.guy@gmail.com>
+Date:   Mon Aug 28 21:31:33 2017 +0700
+
+    add invalid messages, write test case
+
+[33mcommit affe63eb590c9b903a62ab547d160f7b5bd1a311[m
+Author: Thang Le Quoc <silverhair.guy@gmail.com>
+Date:   Mon Aug 28 00:43:48 2017 +0700
+
+    add invalidmessage file, change invalid message info
+
+[33mcommit 9ddfbf8290fa482c1de7c94c1c02484d3f76cd08[m
+Author: Thang Le Quoc <silverhair.guy@gmail.com>
+Date:   Mon Aug 28 00:16:04 2017 +0700
+
+    change query concentration range return type to optional
+
+[33mcommit efc60a022c5d90d521d7e4d32a8199d20997496b[m
+Author: Thang Le Quoc <silverhair.guy@gmail.com>
+Date:   Sun Aug 27 22:45:27 2017 +0700
+
+    remove unnecessary dependency
+
+[33mcommit 30ef23496c9321baa73ec77c41bd7c310160af9b[m
+Merge: 3173c03 f03917d
+Author: Thang Le Quoc <thanglequoc.it@gmail.com>
+Date:   Sun Aug 27 21:00:24 2017 +0700
+
+    Merge pull request #16 from ThangLeQuoc/release
+    
+    update latest pom info
+
+[33mcommit 3173c03d458aa73370085ecccd0da65d2625480f[m
+Author: Thang Le Quoc <thanglequoc.it@gmail.com>
+Date:   Wed Aug 23 21:16:57 2017 +0700
+
+    Update README.md
+
+[33mcommit f03917da30dd2329d9b8812ae21ab33b4d8f9c30[m[33m ([m[1;31morigin/release[m[33m)[m
+Author: Thang Le Quoc <silverhair.guy@gmail.com>
+Date:   Tue Aug 22 23:31:14 2017 +0700
+
+    update pom
+
+[33mcommit 656a8b01d0ff2c498075460f26357f70b91ef71a[m
+Author: Thang Le Quoc <thanglequoc.it@gmail.com>
+Date:   Tue Aug 22 07:19:26 2017 +0700
+
+    Update README.md
+
+[33mcommit 12329c00028dd3593952e3af87ec204e1ffa42c9[m
+Author: Thang Le Quoc <silverhair.guy@gmail.com>
+Date:   Sun Aug 20 16:49:18 2017 +0700
+
+    update pom file
+
+[33mcommit 63cbd1eb6c1bbc18c3571be71f07da0481331fb3[m
+Merge: 8b55a34 0b57f9c
+Author: Thang Le Quoc <thanglequoc.it@gmail.com>
+Date:   Sun Aug 20 16:05:29 2017 +0700
+
+    Merge pull request #15 from ThangLeQuoc/readme
+    
+    update javadoc
+
+[33mcommit 0b57f9cf66ff1bca534683ac59529a294134a3fb[m[33m ([m[1;31morigin/readme[m[33m)[m
+Author: Thang Le Quoc <silverhair.guy@gmail.com>
+Date:   Sun Aug 20 16:04:53 2017 +0700
+
+    update javadoc
+
+[33mcommit 8b55a340a6b2bb340f5218c3c23a274812524cb1[m
+Merge: 1989a3a 49a95a7
+Author: Thang Le Quoc <thanglequoc.it@gmail.com>
+Date:   Sat Aug 19 21:14:57 2017 +0700
+
+    Merge pull request #14 from ThangLeQuoc/readme
+    
+    update readme, AQIResult
+
+[33mcommit 49a95a741611be0ea1533a8f7aeff5959ddbf303[m
+Author: Thang Le Quoc <silverhair.guy@gmail.com>
+Date:   Sat Aug 19 21:14:05 2017 +0700
+
+    update readme
+
+[33mcommit c5d9853fda92ddf7df5d196f17836b92db5b0a8e[m
+Author: Thang Le Quoc <silverhair.guy@gmail.com>
+Date:   Sat Aug 19 20:16:44 2017 +0700
+
+    update readme
+
+[33mcommit 8aa588051bb0f7d69387ae9a1b0d65c963c857a9[m
+Merge: 1a1a875 1989a3a
+Author: Thang Le Quoc <silverhair.guy@gmail.com>
+Date:   Sat Aug 19 19:32:38 2017 +0700
+
+    Merge branch 'master' into readme
+
+[33mcommit 1989a3a6fdcf07f72c60dbd8af6d7153891a7bca[m
+Merge: 58d40b3 9580ec6
+Author: Thang Le Quoc <thanglequoc.it@gmail.com>
+Date:   Sat Aug 19 19:30:44 2017 +0700
+
+    Merge pull request #13 from ThangLeQuoc/aqi-result-object
+    
+    update jar
+
+[33mcommit 9580ec612c14b6021cf37200d609f5cb368ccfaf[m[33m ([m[1;31morigin/aqi-result-object[m[33m)[m
+Author: Thang Le Quoc <silverhair.guy@gmail.com>
+Date:   Sat Aug 19 19:30:12 2017 +0700
+
+    update jar
+
+[33mcommit 58d40b3f013e0b8ba12ae618ab5ac5dcd1bc4993[m
+Merge: c91245a 3bb3099
+Author: Thang Le Quoc <thanglequoc.it@gmail.com>
+Date:   Sat Aug 19 19:28:01 2017 +0700
+
+    Merge pull request #12 from ThangLeQuoc/aqi-result-object
+    
+    replace aqi with AQIResult object
+
+[33mcommit 3bb3099de7db5dcc761aab46579f9a75bb7fb6c1[m
+Author: Thang Le Quoc <silverhair.guy@gmail.com>
+Date:   Sat Aug 19 19:26:45 2017 +0700
+
+    rework test case
+
+[33mcommit fe8c08d79bd836b46b4803e0adb2fda7797f2c27[m
+Author: Thang Le Quoc <silverhair.guy@gmail.com>
+Date:   Sat Aug 19 18:05:02 2017 +0700
+
+    add all test cases for message, guidance for each pollutant
+
+[33mcommit d0780004344368f12e12fa0d940ddd6a57a03899[m
+Author: Thang Le Quoc <silverhair.guy@gmail.com>
+Date:   Sat Aug 19 17:13:41 2017 +0700
+
+    add enum for messsages
+
+[33mcommit 7bdcd132e1e234b43548c756a73c9e97b22c51b5[m
+Author: Thang Le Quoc <silverhair.guy@gmail.com>
+Date:   Sat Aug 19 16:51:47 2017 +0700
+
+    add unit test for AQI Category
+    
+    category added: unhealthy, very unhealthy, hazardous
+
+[33mcommit ff9f745e4d8220dc69bf133e962bba4bdb762156[m
+Author: Thang Le Quoc <silverhair.guy@gmail.com>
+Date:   Sat Aug 19 16:32:48 2017 +0700
+
+    unit test for general AQI level
+    
+    level includes: good, moderate, unhealthy for sensitive groups
+
+[33mcommit 220ff2adf0badccca61f02818007e26d1c481e12[m
+Merge: 1af1cea c91245a
+Author: Thang Le Quoc <silverhair.guy@gmail.com>
+Date:   Mon Aug 14 01:13:54 2017 +0700
+
+    Merge branch 'master' into aqi-result-object
+
+[33mcommit c91245aa3a3d130744752c4599a6fc9615a37307[m
+Merge: 6e82483 1af1cea
+Author: Thang Le Quoc <thanglequoc.it@gmail.com>
+Date:   Mon Aug 14 01:09:58 2017 +0700
+
+    Merge pull request #11 from ThangLeQuoc/aqi-result-object
+    
+    replace plain AQI number with AQI Result Object, add messages in json format
+
+[33mcommit 1af1ceaa00692f359fe15d45d53324a09ba03b00[m
+Author: Thang Le Quoc <silverhair.guy@gmail.com>
+Date:   Mon Aug 14 01:08:03 2017 +0700
+
+    add AQIMessage classes, AQI specific messages
+
+[33mcommit 76d071ce9597e86fa90ec4a17fd7325f7c7ced3a[m
+Author: Thang Le Quoc <silverhair.guy@gmail.com>
+Date:   Sun Aug 13 18:30:56 2017 +0700
+
+    change property name
+
+[33mcommit caabf4d3086e3c3bf9ce49fecb1eec8cb62c7b67[m
+Author: Thang Le Quoc <silverhair.guy@gmail.com>
+Date:   Sun Aug 13 15:51:34 2017 +0700
+
+    add message object
+
+[33mcommit 7f26dcde804dd1bde6f90ce6f23ec9f6539c9584[m
+Author: Thang Le Quoc <silverhair.guy@gmail.com>
+Date:   Sat Aug 12 21:26:42 2017 +0700
+
+    add aqi-specific-pollutant messages
+
+[33mcommit 40554bb936d807e8a16a3eb729d7f4a382e84ff9[m
+Author: Thang Le Quoc <silverhair.guy@gmail.com>
+Date:   Sat Aug 12 13:00:19 2017 +0700
+
+    new line
+
+[33mcommit 4b6dad215dabe3fd48e858303133458e1ff5fc10[m
+Author: Thang Le Quoc <silverhair.guy@gmail.com>
+Date:   Sat Aug 12 12:52:54 2017 +0700
+
+    add aqi general messages
+
+[33mcommit a28de2554a6ab7e5ff6579e8d4ee10ae6ddf3885[m
+Author: Thang Le Quoc <silverhair.guy@gmail.com>
+Date:   Sat Aug 12 12:14:18 2017 +0700
+
+    add AQIResult object
+
+[33mcommit 6e82483252e1348ebe2c136916335d77b76ba56a[m
+Merge: d2225ca 3873a92
+Author: Thang Le Quoc <thanglequoc.it@gmail.com>
+Date:   Sat Aug 12 11:56:15 2017 +0700
+
+    Merge pull request #10 from ThangLeQuoc/add-java-docs
+    
+    add javadocs, AQI unit test
+
+[33mcommit 3873a92bf237cf59711abcc1b063346a85b71312[m[33m ([m[1;31morigin/add-java-docs[m[33m)[m
+Author: Thang Le Quoc <silverhair.guy@gmail.com>
+Date:   Sat Aug 12 11:55:31 2017 +0700
+
+    add AQI test
+
+[33mcommit 084ca97c7226a06e67598310b7d2e22e5749db31[m
+Author: Thang Le Quoc <silverhair.guy@gmail.com>
+Date:   Sat Aug 12 11:53:12 2017 +0700
+
+    add junit
+
+[33mcommit 3e0ae63daadabb49124aa6bda2145115909dc52f[m
+Author: Thang Le Quoc <silverhair.guy@gmail.com>
+Date:   Sat Aug 12 01:35:49 2017 +0700
+
+    update java doc
+
+[33mcommit 985dfc3e554205f9803a36443d82453f8e45314a[m
+Author: Thang Le Quoc <silverhair.guy@gmail.com>
+Date:   Thu Jul 20 18:34:47 2017 +0700
+
+    add javadoc skeleton
+
+[33mcommit d2225ca7b8eb5187705e926b38ec709c3f25d1ef[m
+Merge: 2639722 1a1a875
+Author: Thang Le Quoc <silverhair.guy@gmail.com>
+Date:   Thu Jul 20 15:47:48 2017 +0700
+
+    Merge pull request #7 from ThangLeQuoc/readme
+    
+    add aqi turtorial
+
+[33mcommit 1a1a87534ed6876455c7b3b108621775520f018f[m
+Author: Thang Le Quoc <silverhair.guy@gmail.com>
+Date:   Thu Jul 20 15:46:52 2017 +0700
+
+    add aqi turtorial
+
+[33mcommit 608c2c913fc3dd2391e2e48ba4c03df720e96a5c[m
+Merge: 8a28621 2639722
+Author: Thang Le Quoc <silverhair.guy@gmail.com>
+Date:   Thu Jul 20 15:19:12 2017 +0700
+
+    Merge branch 'master' into readme
+
+[33mcommit 2639722b1f2d8f084d45e7ff02a52d48da3841d7[m
+Merge: d166c6c 8a28621
+Author: Thang Le Quoc <silverhair.guy@gmail.com>
+Date:   Thu Jul 20 15:07:56 2017 +0700
+
+    Merge pull request #6 from ThangLeQuoc/readme
+    
+    update readme
+
+[33mcommit 8a28621b264b543bb178764bf4958ff90017eee8[m
+Author: Thang Le Quoc <silverhair.guy@gmail.com>
+Date:   Thu Jul 20 15:07:29 2017 +0700
+
+    update readme
+    
+    add foreword
+
+[33mcommit d166c6ca57f1f62f59c64ce3f1c88eb09a6b6fbf[m
+Merge: fc4f86e b649024
+Author: Thang Le Quoc <silverhair.guy@gmail.com>
+Date:   Thu Jul 20 14:46:52 2017 +0700
+
+    Merge pull request #5 from ThangLeQuoc/upload-target-jar
+    
+    update readme
+
+[33mcommit b649024174765dc0ac382325b58aa04151a3e9ff[m[33m ([m[1;31morigin/upload-target-jar[m[33m)[m
+Author: Thang Le Quoc <silverhair.guy@gmail.com>
+Date:   Thu Jul 20 14:46:25 2017 +0700
+
+    update readme
+    
+    add available pollutant support
+
+[33mcommit fc4f86ec2e8f4f68a3afe22ba009fbb6c7f0d736[m
+Merge: 78601c9 891990c
+Author: Thang Le Quoc <silverhair.guy@gmail.com>
+Date:   Thu Jul 20 14:28:03 2017 +0700
+
+    Merge pull request #4 from ThangLeQuoc/upload-target-jar
+    
+    update readme
+
+[33mcommit 891990cc2c0543815dd566e89b5a65514ed54e00[m
+Author: Thang Le Quoc <silverhair.guy@gmail.com>
+Date:   Thu Jul 20 14:27:37 2017 +0700
+
+    update readme
+
+[33mcommit 78601c9c1418d20dabec0837555940c8693c2e88[m
+Merge: 4cdd7e8 c30990f
+Author: Thang Le Quoc <silverhair.guy@gmail.com>
+Date:   Thu Jul 20 13:46:37 2017 +0700
+
+    Merge pull request #3 from ThangLeQuoc/upload-target-jar
+    
+    upload target jar
+
+[33mcommit c30990f491199906d6691f03b5d7e8d52de07092[m
+Author: Thang Le Quoc <silverhair.guy@gmail.com>
+Date:   Thu Jul 20 13:45:00 2017 +0700
+
+    upload target jar
+
+[33mcommit 4cdd7e8f0a7f3e578582a80a78fbd6cd13ed77d2[m
+Merge: 1625cba 345644e
+Author: Thang Le Quoc <silverhair.guy@gmail.com>
+Date:   Thu Jul 20 13:21:26 2017 +0700
+
+    Merge pull request #2 from ThangLeQuoc/convert-to-singleton
+    
+    change to singleton, update pom
+
+[33mcommit 345644ef5571b4c1c00763923e482b70b31d4a52[m[33m ([m[1;31morigin/convert-to-singleton[m[33m)[m
+Author: Thang Le Quoc <silverhair.guy@gmail.com>
+Date:   Thu Jul 20 13:21:00 2017 +0700
+
+    change to singleton, update pom
+
+[33mcommit 1625cbaaafb6b0436a4da46dfb2b30cdce80e63d[m
+Merge: 235a41f bf8c4dc
+Author: Thang Le Quoc <silverhair.guy@gmail.com>
+Date:   Thu Jul 20 11:46:43 2017 +0700
+
+    Merge pull request #1 from Ithildir/fix
+    
+    Misc fixes
+
+[33mcommit bf8c4dc279b786ae2e9518a0ba03a47164481f48[m
+Author: Andrea Di Giorgi <andrea.digiorgi@liferay.com>
+Date:   Wed Jul 19 19:14:25 2017 -0700
+
+    Typo
+
+[33mcommit 4bf60dfbf2e18109c3afbe6fe7cab53be23251e4[m
+Author: Andrea Di Giorgi <andrea.digiorgi@liferay.com>
+Date:   Tue Jul 11 18:26:26 2017 -0700
+
+    Read breakpoint file from classpath
+
+[33mcommit 235a41f2bb6c309375388b18b64dcbe888ecb720[m
+Author: Thang Le Quoc <silverhair.guy@gmail.com>
+Date:   Thu Apr 20 15:13:47 2017 +0700
+
+    init commit
+    
+    init commit
+
+[33mcommit 76baad574df33534b56dec9d56fba08506410c6c[m
+Author: Thang Le Quoc <silverhair.guy@gmail.com>
+Date:   Thu Apr 20 15:13:34 2017 +0700
+
+    Initial commit
